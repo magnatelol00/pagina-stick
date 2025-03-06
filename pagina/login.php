@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="login-container">
-        <h2>Crear Cuenta</h2>
+        <h2>iniciar sesion_id</h2>
         <form action="procesar_registro.php" method="POST">
             <input type="text" name="usuario" placeholder="Usuario" required>
             <input type="email" name="email" placeholder="Correo electrónico" required>
