@@ -22,7 +22,8 @@
             <li><a href="#">Productos</a></li>
             <li><a href="#">Contacto</a></li>
             <li><a href="login.php">Iniciar sesión</a></li>
-            <li><a href="registro.php">crear cuenta</a></li>
+            <li><a href="registro.php">Crear Cuenta</a></li>
+
           </ul>
         </nav>
       </div>
