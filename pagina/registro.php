@@ -15,7 +15,7 @@
             <input type="password" name="clave" placeholder="Contraseña" required>
             <button type="submit">Registrarse</button>
         </form>
-        <p>¿Ya tienes una cuenta? <a href="login.php">Inicia sesión aquí</a></p>
+        <p>¿Ya tienes una cuenta? <a href="login.php">crea tu cuenta aca</a></p>
     </div>
 </body>
 </html>
