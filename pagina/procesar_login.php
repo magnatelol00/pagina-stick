@@ -1,6 +1,7 @@
 <?php
 session_start();
 
+
 // Conectar a la base de datos
 $conexion = new mysqli("localhost", "root", "", "mi_base_de_datos");
 
