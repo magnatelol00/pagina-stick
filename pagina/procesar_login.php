@@ -10,7 +10,7 @@ session_start();
 
 
 // Conectar a la base de datos
-$conexion = new mysqli("localhost", "if0_38448340", "XrgVHl6fnhyJ ", "mi_base_de_datos");
+$conexion = new mysqli("sql210.infinityfree.com", "if0_38448340", "XrgVHl6fnhyJ ", "mi_base_de_datos");
 
 if ($conexion->connect_error) {
     die("Error de conexión: " . $conexion->connect_error);
