@@ -5,7 +5,7 @@ ini_set('display_errors', 1);
 session_start();
 
 // Conexión a la base de datos (ajusta los valores según tu servidor)
-$conexion = new mysqli("localhost", "usuario_db", "clave_db", "nombre_db");
+$conexion = new mysqli("sql210.infinityfree.com", "usuif0_38455448", "", "if0_38455448_registro");
 
 // Verifica si la conexión es correcta
 if ($conexion->connect_error) {
