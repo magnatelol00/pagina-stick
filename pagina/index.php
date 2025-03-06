@@ -42,6 +42,8 @@
           <div class="butons">
             <a href="#" class="btn-1">Informacion</a>
             <a href="#" class="btn-1">Licores</a>
+            <a href="registro.php" class="btn-1">Crear Cuenta</a>
+
           </div>
         </div>
       </div>
